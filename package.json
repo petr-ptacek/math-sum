@@ -1,6 +1,11 @@
 {
   "name": "@petr-ptacek/math-sum",
   "version": "0.0.1",
+  "keywords": [
+    "math",
+    "sum",
+    "numbers"
+  ],
   "description": "The math function to sum numbers.",
   "homepage": "https://github.com/petr-ptacek/math-sum.git#readme",
   "author": {
