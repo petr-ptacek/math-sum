@@ -1,8 +1,14 @@
 {
   "name": "@petr-ptacek/math-sum",
   "version": "0.0.1",
+  "description": "The math function to sum numbers.",
+  "homepage": "https://github.com/petr-ptacek/math-sum.git#readme",
   "author": {
     "name": "Petr Ptacek",
     "email": "petr.ptace99@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petr-ptacek/math-sum.git"
   }
 }
