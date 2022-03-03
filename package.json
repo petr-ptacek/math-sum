@@ -1,6 +1,7 @@
 {
   "name": "@petr-ptacek/math-sum",
   "version": "0.0.2",
+  "main": "./src/main.js",
   "keywords": [
     "math",
     "sum",
