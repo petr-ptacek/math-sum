@@ -1,7 +1,12 @@
 {
   "name": "@petr-ptacek/math-sum",
   "version": "0.0.4",
-  "main": "./src/main.js",
+  "main": "./dist/main.js",
+  "types": "./dist/main.d.ts",
+  "scripts": {
+    "clear": "rimraf ./dist ./types",
+    "build": "npm run clear && tsc --project ./tsconfig.json"
+  },
   "keywords": [
     "math",
     "sum",
@@ -21,7 +26,14 @@
   "bugs": {
     "url": "https://github.com/petr-ptacek/math-sum/issues/"
   },
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "files": [
     "*"
-  ]
+  ],
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "typescript": "^4.6.2"
+  }
 }
