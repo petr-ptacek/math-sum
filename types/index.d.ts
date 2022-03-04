@@ -3,4 +3,4 @@
  * @returns {number}
  */
 export declare function sum(...numbers: number[]): number;
-//# sourceMappingURL=main.d.ts.map
+//# sourceMappingURL=index.d.ts.map

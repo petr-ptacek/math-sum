@@ -1,8 +1,8 @@
 {
   "name": "@petr-ptacek/math-sum",
   "version": "0.0.7",
-  "main": "./dist/main.js",
-  "types": "./types/main.d.ts",
+  "main": "./dist/index.js",
+  "types": "./types/index.d.ts",
   "scripts": {
     "clear": "rimraf ./dist ./types",
     "build": "npm run clear && tsc --project ./tsconfig.json"
