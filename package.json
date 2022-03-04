@@ -1,6 +1,6 @@
 {
   "name": "@petr-ptacek/math-sum",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "main": "./dist/index.js",
   "exports": {
     ".": "./dist/index.js",
