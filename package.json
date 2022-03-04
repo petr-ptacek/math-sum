@@ -28,7 +28,8 @@
     "url": "git+https://github.com/petr-ptacek/math-sum.git"
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "license": "MIT",
   "bugs": {
