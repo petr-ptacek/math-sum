@@ -9,6 +9,7 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "clear": "rimraf ./dist",
+    "dev": "tsc --project ./tsconfig.json --watch",
     "build": "npm run clear && tsc --project ./tsconfig.json"
   },
   "keywords": [
